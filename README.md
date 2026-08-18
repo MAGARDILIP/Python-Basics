@@ -1,8 +1,8 @@
-# Python-Practical-Assignments
-Python lab assignments (Jupyter Notebook + PDF)
-# Python Practical Assignments
+# Python-Basics
+Python assignments (Jupyter Notebook + PDF)
 
-This repository contains my Python practical lab assignments.
+
+This repository contains all Python basic assignments.
 
 ## Structure
 - Each assignment includes:
@@ -16,4 +16,4 @@ This repository contains my Python practical lab assignments.
 - VS Code
 
 ## Purpose
-Academic submission and practice of Python programming concepts.
+Practice of Python programming concepts.
